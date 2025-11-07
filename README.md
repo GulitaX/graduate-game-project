@@ -1,5 +1,5 @@
 # This is a Unity 2D game project that I had made for my graduation project at UIT-HCMC
-The game is not priorited to the art, but a way for me to study, research about some Procedural Generation techniques deliver replaablity through level. 
+The game is not priorited to the art, but a way for me to studied, researched about some popular Procedural Generation techniques that deliver replayablity through level. 
 That a key aspect to make game more diverse and attracted to player that love exploring new content.
 
 <img width="940" height="574" alt="image" src="https://github.com/user-attachments/assets/9505be9d-dcff-425e-bca5-671bc6d43d93" />
