@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enviroments
+  - Enemy Hitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Dungeon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 508244663
+    locked: 0
+  - name: Terrain
+    uniqueID: 2897893781
+    locked: 0
+  - name: Player_Interaction
+    uniqueID: 1196727305
+    locked: 0
+  - name: Sky
+    uniqueID: 3068013085
+    locked: 0
+  - name: UI
+    uniqueID: 701489377
+    locked: 0
